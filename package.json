@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Eventhenoob/NodeFarm/issues"
   },
-  "homepage": "https://github.com/Eventhenoob/NodeFarm#readme"
+  "homepage": "https://github.com/Eventhenoob/NodeFarm#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
